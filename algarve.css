@@ -1,0 +1,474 @@
+body {
+    background-color: #ffffff;
+}
+
+#top{
+    overflow: hidden;
+    margin: auto;
+    width: 850px;
+}
+
+#logo {
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+
+#topMenu ul{
+    margin-top: 95px;
+    margin-left: 130px;
+    list-style: none;
+}
+
+#topMenu ul li{
+    margin: 20px;
+    float: left;
+    font-size: 25px;
+    font-family: Agency FB;
+}
+
+.buttons {
+    text-decoration: none;
+    color: black
+}
+
+#line{
+    height: 35px;
+    width: 900px;
+    margin-top: -80px;
+    margin-left: 10px;
+}
+
+#content {
+/*    background-color: red;*/
+    height: 570px;
+    width: 750px;
+    margin-top: 0;
+    margin: auto;
+}
+
+#graphicMenu {
+    height: 580px;
+    overflow-y: hidden;
+/*    background-color: yellow;*/
+}
+
+#graphicMenu li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+}
+
+#two{
+    margin-top: 40px;
+}
+
+#four{
+    margin-top: 30px;
+}
+
+#graphicMenu li p {
+    padding: 0px;
+    border: 0px;
+    color: #9595A2;
+    text-align: center;
+    font-size: 25px;
+    font-family: Agency FB;
+}
+
+#graphicMenu li img {
+    border: 0px;
+    height: 450px;
+    width: 150px;
+}
+
+#graphicMenu li a{
+    text-decoration: none;
+}
+
+
+#footer{
+    width: 850px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#footerLine {
+    height: 35px;
+    width: 900px;
+}
+
+#lists{
+    margin-left: 100px
+}
+
+.footerList {
+    margin-left: 50px;
+    overflow: hidden;
+    float:left;
+    margin-top: -30px;
+    list-style: none;
+    font-family: Agency FB;
+    font-size: 20px
+}
+
+#contactUs {
+    overflow: hidden;
+    font-family: Agency FB;
+    font-size: 20px;
+	padding: 0;
+    display: inline-block;
+	list-style: none;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+
+#contactUs li{
+    float: left;
+}
+
+#golfContent {
+    background-color: #DFFFCA; 
+    margin: auto;
+    height: 600px;
+    width: 850px
+}
+
+#golfImage{
+    
+    margin: 40px;
+}
+
+#golfText {
+    position: absolute;
+    height:220px;
+    width: 360px;
+    margin-left: 420px;
+    margin-top: 320px;
+    background-color: #66CD00;
+}
+
+#golfTitle {
+    position: absolute;
+    background-color: #66CD00;
+    margin-left: 580px;
+    margin-top: 150px;
+    height: 120px;
+    width: 200px;
+}
+
+#golfTitle h1 {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-family: Agency FB;
+}
+
+#golfText p {
+    width: 340px;
+    margin: auto;
+    margin-top: 15px;
+    color: white;
+    font-family: Agency FB;
+    font-size: 20px
+}
+
+#accommodationContent {
+    overflow: hidden;
+    background-color: #ffedcc;
+    margin: auto;
+    height: 4500px;
+    width: 1050px
+}
+
+#title {
+    position: absolute;
+    overflow: hidden;
+    margin: 30px;
+    margin-left: 60px;
+    background-color: #ffa500;
+    width: 320px;
+    height: 100px;
+}
+
+#title h2{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+    font-family: Agency FB;
+}
+
+#locationImage{
+    margin-top: 100px;
+    margin-left: 100px;
+    height: 500px;
+    width: 850px;
+}
+
+#hotelList{
+    position: absolute;
+    background-color: #ffa500;
+    margin-left: 670px;
+    margin-top: 400px;
+    height: 300px;
+    width: 350px;
+}
+
+#hotelList ul{
+    list-style: none;
+    margin-top: -30px;
+    font-family: Agency FB;
+    text-decoration: none;
+}
+
+#hotelList h3{
+    text-align: center;
+    font-family: Agency FB;
+    font-size: 40px;
+    color: white
+}
+
+#hotelList ul li {
+    margin-left: -40px;
+    text-align: center;
+    font-size: 30px;
+    color: white
+}
+
+#location {
+    clear: both;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+#activitiesContent{
+    margin: auto;
+    background-color: #ffffb2;
+    height: 1600px;
+    width: 950px;
+}
+
+#activityImage{
+    height: 440px;
+    width: 550px;
+    margin-left: 340px;
+    margin-top: 60px;
+}
+
+#activitiesTitle {
+    position: absolute;
+    background-color: #E6E600;
+    height: 120px;
+    width: 250px;
+    margin-left: 40px;
+    margin-top: 120px;
+}
+
+.blue #activitiesTitle {
+    background-color: blue;
+}
+
+.green #activitiesTitle {
+    background-color: green;
+}
+
+#activitiesTitle h2{
+    font-family: Agency FB;
+    color: white;
+    font-size: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#activitiesText {
+    position: absolute;
+    background-color: #E6E600;
+    height: 200px;
+    width: 550px;
+    margin-top: 300px;
+    margin-left: 40px;
+}
+
+.blue #activitiesText {
+    background-color: blue;
+}
+
+.green #activitiesText{
+    background-color: green;
+}
+
+#activitiesText p{
+    width: 525px;
+    font-family: Agency FB;
+    color: white;
+    font-size: 22.5px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#activity{
+    margin-bottom: 20px;
+}
+
+#propertyContent {
+    background-color: #cdebf9;
+    margin: auto;
+    width: 950px;
+    height: 1050px;
+}
+
+#propertyImage {
+    border: 20px solid #32ace5;
+    margin-left: 125px;
+    margin-top: 150px;
+    height: 500px;
+    width: 700px;
+}
+
+#propertyTitle {
+    position: absolute;
+    height: 110px;
+    width: 300px;
+    background-color: #32ace5;
+    margin-left: 340px;
+    margin-top: 60px;
+}
+
+#propertyTitle h2 {
+    font-family: Agency FB;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#propertyText{
+    position: absolute;
+    width: 800px;
+    height: 200px;
+    background-color: #32ace5;
+    margin-left: 90px;
+    margin-top: 600px;
+}
+
+#propertyText p {
+    font-family: Agency FB;
+    color: white;
+    font-size: 24px;
+    width: 780px;
+    margin-left: 10px;
+}
+
+#usefulInfoContent {
+    margin: auto;
+    width: 950px;
+    height: 1800px;
+    background-color: #ffefef;
+}
+
+#infoTitle{
+    position: absolute;
+    width: 220px;
+    height: 100px;
+    background-color: #cc0000;
+    margin-left: 110px;
+    margin-top: 60px
+}
+
+#infoTitle h2{
+    font-family: Agency FB;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#infoText{
+    background-color: #cc0000;
+    position: absolute;
+    height: 200px;
+    width: 300px;
+    margin-top: 200px;
+    margin-left: 70px;
+}
+
+#infoText p{
+    font-family: Agency FB;
+    color: white;
+    width: 275px;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+#carImage {
+    margin-left: 400px;
+    margin-top: 70px;
+}
+
+#info{
+    clear: both;
+}
+
+#imageLinks {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+#imageLinks ul li{
+	list-style: none;
+	float: left;
+	display: block; 
+	padding: 0;
+	margin: 30px 30px 30px 30px;
+    width: 140px;
+    text-align: center;
+}
+
+#imageLinks ul li img{
+    border: 0px solid #cc0000;
+    width: 180px;
+    height: 120px;
+}
+
+#clubsImage{
+    margin-left: 500px;
+    margin-top: 80px;
+}
+
+#clubsHireLink {
+    margin-left: 90px;
+}
+
+#bikeImage{
+    margin-top: 50px;
+    margin-left: 450px;
+}
+
+#propertyLinks {
+    margin-left: 20px;
+    margin-top: 100px;
+}
+
+#propertyLinks ul li{
+	list-style: none;
+	float: left;
+	display: block; 
+	padding: 0;
+	margin: 30px 30px 30px 30px;
+    width: 140px;
+    text-align: center;
+}
+
+#propertyLinks ul li img{
+    border: 0px solid #cc0000;
+    width: 180px;
+    height: 120px;
+}
